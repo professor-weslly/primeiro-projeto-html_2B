@@ -1,6 +1,16 @@
 body{
-  background-color: red;
+  background-color: #CCCCCC;
  }
+
+.titulo{
+  font-size: 40px;
+  color: red;
+}
+
+.sapo_header{
+  width: 20%;
+  border-radius: 10px;
+}
 
 .sapo{
   width: 50%;
